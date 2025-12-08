@@ -1,0 +1,20 @@
+# ===========================
+# requirements.txt
+# ===========================
+# 본 프로젝트는 Google Colab 환경에서 실행되며,
+# 아래 패키지들은 Colab 기본 환경에 이미 포함되어 있습니다.
+# (별도 설치 없이 바로 실행 가능합니다.)
+# 혹시 모르는 상황에 대비해 requirements.txt 파일도 따로 명시하여 함께 제출합니다.
+# ===========================
+
+geopandas==1.1.1
+numpy==2.0.2
+openai==2.8.1
+pandas==2.2.2
+pandas-datareader==0.10.0
+pandas-gbq==0.30.0
+pandas-stubs==2.2.2.240909
+scikit-learn==1.6.1
+sklearn-pandas==2.2.0
+tqdm==4.67.1
+
